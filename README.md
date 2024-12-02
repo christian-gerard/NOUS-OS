@@ -1,3 +1,3 @@
 # NOUS OS
 
-Goal: Build OS components that are optimized to run deep learning software.
+Goal: Integrate ML elements into an OS
